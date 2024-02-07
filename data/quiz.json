@@ -1,0 +1,171 @@
+{
+    "name": "Teste seu conhecimento em JS!",
+    
+    "questions": [
+        {
+            "title": "Qual é a diferença entre '==' e '===' em JavaScript?",
+            "answers": [
+                {
+                    "title": "'==' compara apenas os valores, enquanto '===' compara valores e tipos de dados."
+                },
+
+                {
+                    "title": "'==' é o operador de igualdade estrita, enquanto '===' é o operador de igualdade solta."
+                },
+
+                {
+                    "title": "Não há diferença entre '==' e '==='."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é um closure em JavaScript?",
+            "answers": [
+                {
+                    "title": "Um closure é uma função interna que tem acesso às variáveis de sua função externa, mesmo após a função externa ter sido executada."
+                },
+
+                {
+                    "title": "Um closure é um tipo de loop em JavaScript."
+                },
+
+                {
+                    "title": "Um closure é uma forma de encapsulamento de código em JavaScript."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é hoisting em JavaScript?",
+            "answers": [
+                {
+                    "title": "Hoisting é o comportamento em que as declarações de variáveis e funções são movidas para o topo de seu escopo durante a fase de compilação."
+                },
+
+                {
+                    "title": "Hoisting é o processo de converter valores em objetos em JavaScript."
+                },
+
+                {
+                    "title": "Hoisting é o nome de uma técnica de otimização de código em JavaScript."
+                }
+            ]
+        },
+
+        {
+            "title": "Qual é o resultado de 2 + '2' em JavaScript?",
+            "answers": [
+                {
+                    "title": "O resultado é '22', pois JavaScript concatena strings e números automaticamente quando um operador de adição é usado com um número e uma string."
+                },
+
+                {
+                    "title": "O resultado é 4, pois JavaScript converte a string '2' em um número e realiza a adição normalmente."
+                },
+
+                {
+                    "title": "Isso gera um erro, pois não é possível adicionar um número e uma string em JavaScript."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é o DOM (Document Object Model) em JavaScript?",
+            "answers": [
+                {
+                    "title": "O DOM é uma interface de programação que representa documentos HTML e XML como uma árvore de objetos."
+                },
+
+                {
+                    "title": "O DOM é um tipo de dado em JavaScript que representa elementos da página da web."
+                },
+
+                {
+                    "title": "O DOM é uma função em JavaScript usada para manipular estilos CSS."
+                }
+            ]
+        },
+
+        {
+            "title": "Como você pode prevenir a propagação de eventos em JavaScript?",
+            "answers": [
+                {
+                    "title": "Você pode usar o método 'stopPropagation()' em um evento para prevenir a propagação para elementos pais."
+                },
+
+                {
+                    "title": "Você pode usar a função 'preventDefault()' em um evento para prevenir a ação padrão associada a ele."
+                },
+
+                {
+                    "title": "Não é possível prevenir a propagação de eventos em JavaScript."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é AJAX em JavaScript?",
+            "answers": [
+                {
+                    "title": "AJAX é uma técnica de programação que permite atualizações assíncronas de partes de uma página da web sem a necessidade de recarregar a página inteira."
+                },
+
+                {
+                    "title": "AJAX é um framework popular para desenvolvimento de aplicativos web em JavaScript."
+                },
+
+                {
+                    "title": "AJAX é uma biblioteca JavaScript para manipulação de elementos de interface do usuário."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é um objeto em JavaScript?",
+            "answers": [
+                {
+                    "title": "Um objeto é uma coleção de propriedades, onde cada propriedade tem um nome e um valor associado."
+                },
+
+                {
+                    "title": "Um objeto é uma função em JavaScript."
+                },
+
+                {
+                    "title": "Um objeto é um tipo de dado em JavaScript que representa uma sequência de caracteres."
+                }
+            ]
+        },
+
+        {
+            "title": "O que é o operador ternário em JavaScript?",
+            "answers": [
+                {
+                    "title": "O operador ternário é um operador condicional que pode ser usado para tomar decisões em uma única linha de código."
+                },
+                {
+                    "title": "O operador ternário é um operador aritmético em JavaScript."
+                },
+                {
+                    "title": "O operador ternário é um operador lógico em JavaScript."
+                }
+            ]
+        },
+
+        {
+            "title": "Qual é o objetivo do método 'addEventListener' em JavaScript?",
+            "answers": [
+                {
+                    "title": "O método 'addEventListener' é usado para associar um manipulador de eventos a um elemento HTML, permitindo que o código responda a eventos específicos ocorrendo no elemento."
+                },
+                {
+                    "title": "O método 'addEventListener' é usado para modificar o estilo CSS de um elemento HTML."
+                },
+                {
+                    "title": "O método 'addEventListener' é usado para criar novos elementos HTML dinamicamente."
+                }
+            ]
+        }
+    ]
+}
