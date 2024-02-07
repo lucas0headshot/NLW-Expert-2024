@@ -16,7 +16,9 @@
                 {
                     "title": "Não há diferença entre '==' e '==='."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -33,7 +35,9 @@
                 {
                     "title": "Um closure é uma forma de encapsulamento de código em JavaScript."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 2
         },
 
         {
@@ -50,7 +54,9 @@
                 {
                     "title": "Hoisting é o nome de uma técnica de otimização de código em JavaScript."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -67,7 +73,9 @@
                 {
                     "title": "Isso gera um erro, pois não é possível adicionar um número e uma string em JavaScript."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -84,7 +92,9 @@
                 {
                     "title": "O DOM é uma função em JavaScript usada para manipular estilos CSS."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -101,7 +111,9 @@
                 {
                     "title": "Não é possível prevenir a propagação de eventos em JavaScript."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 1
         },
 
         {
@@ -118,7 +130,9 @@
                 {
                     "title": "AJAX é uma biblioteca JavaScript para manipulação de elementos de interface do usuário."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -135,7 +149,9 @@
                 {
                     "title": "Um objeto é um tipo de dado em JavaScript que representa uma sequência de caracteres."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -150,7 +166,9 @@
                 {
                     "title": "O operador ternário é um operador lógico em JavaScript."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         },
 
         {
@@ -165,7 +183,9 @@
                 {
                     "title": "O método 'addEventListener' é usado para criar novos elementos HTML dinamicamente."
                 }
-            ]
+            ],
+
+            "correctAnswer" : 0
         }
     ]
 }

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Inter:wght@400;600;700&family=Spectral:wght@500;600&display=swap');
+
+
+
+
+*, :root {
+    font-family: Inter, sans-serif;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+main {
+    max-width: 640px;
+    margin: 0 auto 2rem;
+    padding: 2rem;
+}
+
+
+#result {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    background-color: #A3E365;
+}
