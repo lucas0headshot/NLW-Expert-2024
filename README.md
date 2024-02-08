@@ -10,6 +10,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#🕹-como-testar"></a>
 </p>
 
 <p align="center">
@@ -35,6 +36,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
 
+
+## 🕹 Como testar
+
+Para testar, [clique aqui](https://lucas0headshot.github.io/NLW-Expert-2024/)
 
 ## 📝 Licença
 
