@@ -9,15 +9,16 @@
 
     <link rel="shortcut icon" href="assets/images/icon.svg" type="image/svg">
 
+    <link rel="stylesheet" href="assets/css/animations.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 </head>
 <body>
     <template>
-        <div>
-            <dl>
-                <h3>Pergunta</h3>
+        <div class="quiz-question">
+            <h3>Pergunta</h3>
 
-                <dt>
+            <dl class="question-answers">
+                <dt class="question-answer">
                     <input type="radio" name="answer">
                     <span>
                         Resposta
@@ -30,14 +31,31 @@
 
 
     <main>
-        <h1>Teste seu conhecimento em JS!</h1>
+        <header>
+            <div class="info">
+                <a href="https://www.rocketseat.com.br/eventos/nlw" target="_blank" referrerpolicy="noreffer">
+                    <img src="assets/images/logo.svg" class="logo" alt="Logo da NLW Expert">
+                </a>
+                
+                <div class="author">
+                    <h2>Feito por</h2>
+
+                    <div class="author-image-wrapper">
+                        <a referrerpolicy="noreffer" target="_blank" href="https://github.com/lucas0headshot">
+                            <img src="assets/images/author.jpg" alt="Imagem do autor">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <h1>Teste seu conhecimento em JS!</h1>
+        </header>
 
         <section id="quiz"></section>
 
-        <section id="result">
+        <footer id="result">
             <strong>Acertos</strong>
             <span></span>
-        </section>
+        </footer>
     </main>
 
 
